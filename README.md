@@ -110,9 +110,14 @@ alt="streak stats" />
 </div>
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile
+### ❤️ Thanks for visiting my profile
 
 </div>
